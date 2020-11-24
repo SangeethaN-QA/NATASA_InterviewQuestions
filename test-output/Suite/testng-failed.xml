@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" time-out="1000">
+  <test name="testng(failed)" time-out="1000">
+    <classes>
+      <class name="testngInterviewQuestions.com.DisplaySignPageTimeOut">
+        <methods>
+          <include name="YatraSignPage"/>
+        </methods>
+      </class> <!-- testngInterviewQuestions.com.DisplaySignPageTimeOut -->
+    </classes>
+  </test> <!-- testng(failed) -->
+</suite> <!-- Failed suite [Suite] -->
